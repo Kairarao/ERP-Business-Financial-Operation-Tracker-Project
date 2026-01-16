@@ -72,7 +72,7 @@ The main dashboard provides a **centralized control panel** featuring:
 
 ### 📸 Screenshots
 
-###Main Dashboard
+### Main Dashboard
 <img width="1919" height="1018" alt="Screenshot 2025-09-18 223226" src="https://github.com/user-attachments/assets/e537ed2b-c31b-44fe-bbd6-0549d8200d73" />
 
 ### Employee Management 
@@ -90,7 +90,7 @@ The main dashboard provides a **centralized control panel** featuring:
 ### Reports 
 <img width="1548" height="786" alt="Screenshot 2026-01-16 205349" src="https://github.com/user-attachments/assets/fa37cd7a-846b-4815-9ff1-bc1cb67aa2ba" />
 
-###Visualization:
+### Visualization:
 <img width="1657" height="981" alt="Screenshot 2026-01-16 204144" src="https://github.com/user-attachments/assets/ba5cdc42-1178-4ed7-bb69-7a30d22d0727" />
 
 ### Note Taking Feature 
