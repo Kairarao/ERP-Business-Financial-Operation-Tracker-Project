@@ -24,7 +24,8 @@ The main dashboard provides a **centralized control panel** featuring:
   - Products  
   - Sales  
   - Revenue & Expenses  
-  - Assets & Liabilities  
+  - Assets & Liabilities
+    
 
 ### 👥 Employee Management
 - Add and manage employee records  
@@ -68,6 +69,11 @@ The main dashboard provides a **centralized control panel** featuring:
 - Compatible with **XAMPP / phpMyAdmin**
 
 ---
+
+### 📸 Screenshots
+
+<img width="1657" height="981" alt="Screenshot 2026-01-16 204144" src="https://github.com/user-attachments/assets/ba5cdc42-1178-4ed7-bb69-7a30d22d0727" />
+
 
 ## 🛠️ Tech Stack
 
